@@ -12,6 +12,7 @@ If you want to try it out, you can clone this repository and set it up as below:
 ### 2. Import React and Tailwind:
 
     Commands to do so:
+    
     'npm install -g create-react-app'
     'npm install -D tailwindcss'
 
@@ -19,7 +20,7 @@ If you want to try it out, you can clone this repository and set it up as below:
 
 
 
-# Learn more react commands here ->   https://create-react-app.dev/docs/getting-started/
+### Learn more react commands here ->   https://create-react-app.dev/docs/getting-started/
 Includes commands like:
 - `npm start`
 - `npm test`

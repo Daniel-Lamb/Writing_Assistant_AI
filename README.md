@@ -25,7 +25,7 @@ This is a Writing Assistant powered by AI21 Labs, made with React and Tailwind. 
 - Replace 'FILL_IN_UR_OWN_HERE' in line 9 of Assistant.tsx with your API.  Keep the single quotation marks around it!
 
 ### 4. Launch the app
-In your terminal, type the command `npm start`
+In your terminal, type the command `npm start` <br>
 It will run in the browser at localhost:3000
 
 &nbsp;

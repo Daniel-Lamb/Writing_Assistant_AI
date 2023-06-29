@@ -6,7 +6,7 @@ const BlogEditor = () => {
     const [loading, setLoading] = useState(false);
 
 
-    const API_KEY = "gWA8SLPYQiNUHH3SWaM46pIBHoamzKhm";
+    const API_KEY = "FILL_IN_UR_OWN_HERE";
 
     const handleChangeText = (e: ChangeEvent<HTMLTextAreaElement>) => {
         setText(e.target.value);

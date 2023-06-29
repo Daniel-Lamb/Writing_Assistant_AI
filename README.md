@@ -12,13 +12,17 @@ This is a Writing Assistant powered by AI21 Labs, made with React and Tailwind. 
 
 ### 1. Clone this repository, and cd into the project folder
 
-### 2. Import React, Tailwind, and Dotenv:
+### 2. Import React, Tailwind, and Dotenv
 
 - `npm install -g create-react-app`
 - `npm install -D tailwindcss`
 - `npm install dotenv`
 
-### 3. To launch, type the command `npm start` in the terminal, and it will run in the browser at localhost:3000
+### 2. Switch your API key with 'FILL_IN_UR_OWN_HERE' in line 9 of Assistant.tsx
+When you make an account on AI21 labs ([link: ](https://studio.ai21.com/)), you can access your API key at: https://studio.ai21.com/account/api-key
+Once you have it, just replace 'FILL_IN_UR_OWN_HERE' in line 9 of Assistant.tsx with your API.  Make sure to keep the single quotation marks around it.
+
+### 4. To launch, type the command `npm start` in the terminal, and it will run in the browser at localhost:3000
 
 <hr>
 

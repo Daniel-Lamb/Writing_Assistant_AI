@@ -12,10 +12,11 @@ This is a Writing Assistant powered by AI21 Labs, with the ability to summarize 
 
 ### 1. Clone this repository, and cd into the project folder
 
-### 2. Import React and Tailwind:
-Commands:
+### 2. Import React, Tailwind, and Dotenv:
+
 - `npm install -g create-react-app`
 - `npm install -D tailwindcss`
+- `npm install dotenv`
 
 ### 3. To launch, type the command `npm start` in the terminal, and it will run in the browser at localhost:3000
 

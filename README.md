@@ -10,7 +10,7 @@ This is a Writing Assistant powered by AI21 Labs, made with React and Tailwind. 
 <hr>
 
 # Setting Up:
-&nbsp;
+
 ### 1. Clone this repository, and cd into the project folder
 
 ### 2. Import React, Tailwind, and Dotenv

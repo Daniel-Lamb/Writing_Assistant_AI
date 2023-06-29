@@ -5,9 +5,9 @@ This is a Writing Assistant powered by AI21 Labs, made with React and Tailwind. 
 &nbsp;
 
 ![image](https://github.com/Daniel-Lamb/Writing_Assistant_AI/assets/96439440/fa1fb7d2-c3cf-4915-b6df-539d6ade4c7c)
+&nbsp;
 
 <hr>
-&nbsp;
 
 # Setting Up:
 &nbsp;
@@ -28,7 +28,6 @@ This is a Writing Assistant powered by AI21 Labs, made with React and Tailwind. 
 
 &nbsp;
 <hr>
-&nbsp;
 
 # Learn more React commands
 Link -> https://create-react-app.dev/docs/getting-started/

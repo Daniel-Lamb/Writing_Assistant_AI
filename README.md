@@ -24,7 +24,9 @@ This is a Writing Assistant powered by AI21 Labs, made with React and Tailwind. 
 - Access your API key: https://studio.ai21.com/account/api-key
 - Replace 'FILL_IN_UR_OWN_HERE' in line 9 of Assistant.tsx with your API.  Keep the single quotation marks around it!
 
-### 4. To launch, type the command `npm start` in the terminal, and it will run in the browser at localhost:3000
+### 4. Launch the app
+In your terminal, type the command `npm start`
+It will run in the browser at localhost:3000
 
 &nbsp;
 

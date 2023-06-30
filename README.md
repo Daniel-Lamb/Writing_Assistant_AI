@@ -1,6 +1,7 @@
 # About
 
 This is a Writing Assistant powered by AI21 Labs, made with React and Tailwind. It has the ability to summarize a website, check grammar, improve your writing, and generate new text. This was my first time working with Large Language Model APIs, and I learned a lot from this project.
+
 &nbsp;
 If you want to see how it works, check out my DEMO video (https://github.com/Daniel-Lamb/Writing_Assistant_AI/blob/main/Demo_How_To_Use.mp4)
 

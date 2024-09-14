@@ -4,7 +4,7 @@ This is a Writing Assistant powered by AI21 Labs, made with React and Tailwind. 
 
 &nbsp;
 
-To see it work, check out my DEMO video (https://github.com/Daniel-Lamb/Writing_Assistant_AI/blob/main/Demo_How_To_Use.mp4)
+## To see it work, check out my [DEMO](https://www.youtube.com/watch?v=1dMuJFkYWeI)
 
 If you want to try it out, see ***Set Up*** below:
 

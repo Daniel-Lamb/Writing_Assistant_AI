@@ -25,8 +25,7 @@ If you want to try it out, see ***Set Up*** below:
 - `npm install -D tailwindcss`
 - `npm install dotenv`
 
-## Important for Setup
-### 3. Switch in your API key
+### 3. IMPORTANT: Switch in your API key
 - Make an account on AI21 labs: https://studio.ai21.com/
 - Access your API key: https://studio.ai21.com/account/api-key
 - Replace 'FILL_IN_UR_OWN_HERE' in line 9 of Assistant.tsx with your API.  Keep the single quotation marks around it!

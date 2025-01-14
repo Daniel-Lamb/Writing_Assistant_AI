@@ -25,6 +25,7 @@ If you want to try it out, see ***Set Up*** below:
 - `npm install -D tailwindcss`
 - `npm install dotenv`
 
+## Important for Setup
 ### 3. Switch in your API key
 - Make an account on AI21 labs: https://studio.ai21.com/
 - Access your API key: https://studio.ai21.com/account/api-key
